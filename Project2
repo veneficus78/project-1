@@ -1,0 +1,17 @@
+1 #refresh 
+2 #show 
+   Base type "agate amulet" "leather belt" // nazwa itemu
+   BaseType "belt" "amulet"  // baza itemu
+   Size font 45 // rozmiar czcionki
+   Set colorway 255 255 255 // kolor ogolny???
+   Set backround 0 0 0 // kolor w tabeli
+   Set TextColor 255 0 0 // kolor txt
+   Set backgroundcolor 255 255 255 // kolor obramowki 
+3
+4
+5
+6
+7
+8
+9
+10
